@@ -1,0 +1,16 @@
+pytest .\\tests\\masters\\ms_accessories_test.py
+pytest .\\tests\\masters\\ms_saddress_test.py
+pytest .\\tests\\masters\\ms_branch_test_test.py
+pytest .\\tests\\masters\\ms_company_test_test.py
+pytest .\\tests\\masters\\ms_contact_test_test.py
+pytest .\\tests\\masters\\ms_customer_relation_test_test.py
+pytest .\\tests\\masters\\ms_customer_test_test.py
+pytest .\\tests\\masters\\ms_engineer_test_test.py
+pytest .\\tests\\masters\\ms_item_test_test.py
+pytest .\\tests\\masters\\ms_problem_test_test.py
+pytest .\\tests\\masters\\ms_sales_test_test.py
+pytest .\\tests\\masters\\ms_status_test_test.py
+pytest .\\tests\\masters\\ms_vendor_test_test.py
+pytest .\\tests\\masters\\ms_warranty_item_test_test.py
+pytest .\\tests\\masters\\ms_warranty_map_test_test.py
+pytest .\\tests\\masters\\ms_warranty_status_test_test.py
